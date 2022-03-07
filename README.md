@@ -1,6 +1,6 @@
 # RevSpace 
 ## Project Description
-RevSpace is a full-stack web application that allows users to register for an Account to make posts on the Social Media Application. Posts can be liked and commented on by other various users. Users are also able to modify their own user profiles.
+RevSpace is a full-stack web application that allows users to register for an Account to make posts on the Social Media Application. Posts can be liked and commented on by other various users. Users are also able to modify their own user profiles, including changing their password to log in with. Users can follow particular other users to quickly see posts from those users. A notification system informs the user of new comments, follows and likes on posts. Users can search for other users by their email to see profile and follow if desired.
 
 ### Environment / Technologies
 Spring MVC, Git, Java, Angular 4, AWS S3, Spring Test, JUnit4, Selenium, Spring Boot, Spring Data, Jenkins, Cucumber, Postman, Spring Test, Spring AOC, Log4J, Maven
